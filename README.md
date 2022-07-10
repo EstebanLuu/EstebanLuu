@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Esteban Nicolás Luna</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
