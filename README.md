@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Esteban Nicolás Luna</h1>
 <center>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </center>
 <h3 align="center">Un apasionado full stack developer de Argentina.</h3>
 
