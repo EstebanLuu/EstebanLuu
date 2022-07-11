@@ -8,9 +8,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/esteban-nicol%C3%A1s-luna--/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban nicolás luna" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://portafolio-esteban-luna.netlify.app/" target="blank"><img align="center" />Portafolio</a>                                                     
 
 <h3 align="left">Lenguajes y herramientas que manejo.</h3>
