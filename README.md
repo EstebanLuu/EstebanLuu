@@ -2,7 +2,7 @@
 <div align="center">
 <img align=”middle” src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-<h3 align="center">Un apasionado full stack developer de Argentina.</h3>
+<h3 align="center">Apasionado Por el desarrollo y el diseño, me encanta aprender y aplicar lo aprendido.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
