@@ -3,6 +3,7 @@
 <img align=”middle” src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <h3 align="center">Apasionado por el desarrollo y el diseño, me encanta aprender y aplicar lo aprendido.</h3>
+<p align="center">My name is Esteban Luna, I am from Argentina. I'm 21 years old. I am a full stack developer very passionate about what I do. I love learning new technologies and languages constantly. I'm currently in the third year of my bachelor's degree in management.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
