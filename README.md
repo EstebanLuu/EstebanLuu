@@ -3,7 +3,7 @@
 <img align=”middle” src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <h3 align="center">I´m a creative designer based in Buenos Aires. I'm very passionate and dedicated to my work.</h3>
-<p align="center">My name is Esteban Luna, I am from Argentina. I'm 21 years old. I am a full stack developer very passionate about what I do. I love learning new technologies and languages constantly. I'm currently in the third year of my bachelor's degree in management.</p>
+<p align="center">My name is Esteban Luna, I am from Argentina. I'm 22 years old. I am a full stack developer very passionate about what I do. I love learning new technologies and languages constantly. I'm currently in the fourth year of my bachelor's degree in management.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
